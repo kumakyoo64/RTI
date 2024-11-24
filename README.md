@@ -39,6 +39,9 @@ sein.
 
 Bekannte Einschränkungen sind derzeit:
 
+- Funktioniert nur mit PAL-VIC. Auch die Verwendung einer Super-CPU
+  ist nicht möglich.
+
 - Die ersten vier Zeilen in der RTI-Datei sind fix, das Bild muss also
   zwingend 88x88 Pixel (=11x11-Blocks) groß sein und sich an Position
   1x1 befinden.
